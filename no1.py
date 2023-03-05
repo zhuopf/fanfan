@@ -4,4 +4,4 @@
 food_price = 18.5
 cola_price = 3.5
 fruit_price = 10.7
-print("总价格:", food_price+cola_price+fruit_price)
+print("总价格:", food_price + cola_price + fruit_price)
