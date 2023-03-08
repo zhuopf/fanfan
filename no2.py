@@ -55,4 +55,4 @@ print("王二的专业成绩是 %d 分, 思想品德成绩是 %d 分, 体育成�
       (wanger_subjectscore, wanger_moralityscore, wanger_sportsscore,
        wanger_instructorscore, wanger_classscore, wanger_score))
 
-print("按照评分规则，总分高的评选为三好学生! 恭喜!")
+print("按照评分规则, 总分高的评选为三好学生! 恭喜! ")
