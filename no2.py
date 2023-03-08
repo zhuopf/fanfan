@@ -35,12 +35,11 @@ zhangsan_score = float(zhangsan_score)
 # lisi_score = float(lisi_score)
 # wanger_score = float(wanger_score)
 
-print(type(zhangsan_score), zhangsan_score)
+print(type(zhangsan_score), zhangsan_score, '38')
 # print(type(lisi_score), lisi_score)
 # print(type(wanger_score), wanger_score)
 
-print("张三的专业成绩是86分","思想品德是92分","体育成绩是88分","辅导员评分是95分","班级评分是93分","张三的总分是90.0分"\
-      %(zhangsan_subjectscore,zhangsan_moralityscore,zhangsan_sportsscore,zhangsan_instructorscore,zhangsan_classscore))
+print("张三的专业成绩是", zhangsan_subject_score, "分","思想品德是",zhangsan_moralityscore, "分","体育成绩是88分","辅导员评分是95分","班级评分是93分","张三的总分是90.0分")
 
 # print("李四的专业成绩是88分","思想品德是90分","体育成绩是85分","辅导员评分是92分","班级评分是96分","李四的总分是89.6分"\
 #       %(lisi_subjectscore,lisi_moralityscore,lisi_sportsscore,lisi_instructorscore,lisi_classscore))
